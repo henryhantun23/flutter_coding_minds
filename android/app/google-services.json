@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547180475256",
+    "project_id": "coding-minds",
+    "storage_bucket": "coding-minds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547180475256:android:900d2f0d4765193a87ce8d",
+        "android_client_info": {
+          "package_name": "com.ooh.flutter_coding_minds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvB8k8u0D10WqWHfhvKQ1ML19y1UZuseY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
